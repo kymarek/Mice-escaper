@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Mice Escaper V1.0
+/Mouse Escaper V1.0.txt
+*.rar
+/Library
